@@ -49,11 +49,17 @@ table {
 /* LAYOUT STYLES */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 1.5em;
+  font-size: 1.3em;
   line-height: 1.5;
   color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background: url(../images/0-1.jpg) 0 0 repeat;
+}
+body h3 {
+  margin-bottom: 8px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #d5000d;
 }
 
 a {
@@ -253,7 +259,7 @@ h2 {
 
 h3 {
   margin-bottom: 8px;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: bold;
   color: #d5000d;
 }
