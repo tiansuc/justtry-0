@@ -86,7 +86,7 @@ header h2 {
 
 #container {
   min-height: 595px;
-  
+
 }
 
 .inner {
@@ -253,7 +253,7 @@ h2 {
 
 h3 {
   margin-bottom: 8px;
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
   color: #d5000d;
 }
